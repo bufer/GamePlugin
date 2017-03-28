@@ -1,0 +1,31 @@
+D:\Python3.5\python.exe D:/Devlopment/Python/GamePlugin/utils/controled_app.py
+(384, 62, 1589, 722)
+(0, 0, 1189, 621)
+ClientToScreen: (392, 93)
+(191, 287, 420, 368) 0.8355854749679565
+67076 point: (360, 336) old_point: (101, 578) spoint: (752, 429)
+67076 'ENMainFrame'
+67098 'ENMainView'
+67108 'ENRightPaneView'
+67110 'ENNoteSplitView'
+67134 'ENNoteViewHost'
+67136 'ENNoteView'
+67296 'ENHtmlNoteCtrl'
+67298 'CefBrowserWindow'
+67300 'WebViewHost'
+
+Process finished with exit code 0
+D:\Python3.5\python.exe D:/Devlopment/Python/GamePlugin/utils/controled_app.py
+(384, 62, 1589, 722)
+(0, 0, 1189, 621)
+ClientToScreen: (392, 93)
+(191, 287, 420, 368) 0.8355839252471924
+67076 point: (251, 298) old_point: (26, 550) spoint: (643, 391)
+67076 'ENMainFrame'
+67098 'ENMainView'
+67108 'ENRightPaneView'
+67110 'ENNoteSplitView'
+67112 'ENNoteListView'
+67124 'ENSnippetListCtrl'
+
+Process finished with exit code 0
